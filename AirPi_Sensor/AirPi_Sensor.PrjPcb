@@ -157,6 +157,23 @@ GenerateClassCluster=0
 DocumentUniqueId=VWACFYES
 
 [Document8]
+DocumentPath=..\Utils\sc16is752.SchDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=10
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=ZUZPXPSO
+
+[Document9]
 DocumentPath=..\Utils\MPU9250.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -173,7 +190,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=ALSPJQGL
 
-[Document9]
+[Document10]
 DocumentPath=..\Utils\PCA9685.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -190,7 +207,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=EVILKHPF
 
-[Document10]
+[Document11]
 DocumentPath=..\Utils\RC_Inverter.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1

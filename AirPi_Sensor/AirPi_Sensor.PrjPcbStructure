@@ -1,6 +1,5 @@
 Record=TopLevelDocument|FileName=PiHAT_Sensor.SchDoc
 Record=SheetSymbol|SourceDocument=PiHAT_Sensor.SchDoc|Designator=ADC|SchDesignator=ADC|FileName=ADS1115.SchDoc|SymbolType=Normal|RawFileName=ADS1115.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
-Record=SheetSymbol|SourceDocument=PiHAT_Sensor.SchDoc|Designator=Airspeed0|SchDesignator=Airspeed0|FileName=Airspeed_Connector.SchDoc|SymbolType=Normal|RawFileName=Airspeed_Connector.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
 Record=SheetSymbol|SourceDocument=PiHAT_Sensor.SchDoc|Designator=Fan|SchDesignator=Fan|FileName=Fan.SchDoc|SymbolType=Normal|RawFileName=Fan.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
 Record=SheetSymbol|SourceDocument=PiHAT_Sensor.SchDoc|Designator=from pwr|SchDesignator=from pwr|FileName=pwr_plug.SchDoc|SymbolType=Normal|RawFileName=pwr_plug.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
 Record=SheetSymbol|SourceDocument=PiHAT_Sensor.SchDoc|Designator=IMU|SchDesignator=IMU|FileName=MPU9250.SchDoc|SymbolType=Normal|RawFileName=MPU9250.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 

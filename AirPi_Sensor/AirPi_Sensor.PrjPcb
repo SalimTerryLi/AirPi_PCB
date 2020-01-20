@@ -55,23 +55,6 @@ GenerateClassCluster=0
 DocumentUniqueId=ZZQTSXBK
 
 [Document2]
-DocumentPath=..\Utils\Airspeed_Connector.SchDoc
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=BUGRUJKP
-
-[Document3]
 DocumentPath=..\Utils\Fan.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -88,7 +71,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=EVOLUNUL
 
-[Document4]
+[Document3]
 DocumentPath=..\Utils\MS5611.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -105,7 +88,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=WEGYQGRJ
 
-[Document5]
+[Document4]
 DocumentPath=..\Utils\pwr_plug.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -122,7 +105,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=WEDHIXTF
 
-[Document6]
+[Document5]
 DocumentPath=..\Utils\REF5040.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -139,7 +122,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=EQEVKKMU
 
-[Document7]
+[Document6]
 DocumentPath=..\Utils\ADS1115.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -156,7 +139,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=VWACFYES
 
-[Document8]
+[Document7]
 DocumentPath=..\Utils\sc16is752.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -173,7 +156,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=ZUZPXPSO
 
-[Document9]
+[Document8]
 DocumentPath=..\Utils\MPU9250.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -190,7 +173,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=ALSPJQGL
 
-[Document10]
+[Document9]
 DocumentPath=..\Utils\PCA9685.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -207,7 +190,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=EVILKHPF
 
-[Document11]
+[Document10]
 DocumentPath=..\Utils\RC_Inverter.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -224,7 +207,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=DLDKFUTT
 
-[Document12]
+[Document11]
 DocumentPath=AirPi_Sensor_1.1.PcbDoc
 AnnotationEnabled=1
 AnnotateStartValue=1

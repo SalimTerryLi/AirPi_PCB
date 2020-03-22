@@ -224,6 +224,23 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=MBXAAANT
 
+[Document12]
+DocumentPath=..\Utils\HT7560.SchDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=11
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=ILNODDKR
+
 [GeneratedDocument1]
 DocumentPath=Project Outputs for AirPi_Sensor\Design Rule Check - AirPi_Sensor.html
 DItemRevisionGUID=
